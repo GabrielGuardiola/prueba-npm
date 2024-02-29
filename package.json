@@ -1,0 +1,18 @@
+{
+  "name": "prueba-npm",
+  "version": "1.0.0",
+  "description": "Test for BootCamp.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "prueba-npm-sessio3"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Gabriel",
+  "license": "ISC"
+}
